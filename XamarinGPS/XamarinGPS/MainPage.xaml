@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="XamarinGPS.MainPage">
+
+    <StackLayout >
+        <!-- Place new controls here -->
+        <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+        <StackLayout Orientation="Horizontal" Margin="5">
+            <Label x:Name="lbLatitude" Text="Latitude: " TextColor="Red" HorizontalOptions="Start"/>
+            <Label x:Name="lbLongitude" Text="Longitude: "  TextColor="Red" HorizontalOptions="End"/>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" Margin="10,0" HorizontalOptions="Center">
+            
+            <Entry x:Name="LatitudeDest" Placeholder="Latitude do destino" HorizontalOptions="Start" Keyboard="Numeric"  />
+            <Entry x:Name="LongitudeDest" Placeholder="Longitude do destino" HorizontalOptions="End" Keyboard="Numeric"/>
+        </StackLayout>
+        <Button x:Name="btCalcularDistancia" Text ="Calcular a distancia" BorderColor="Red" Clicked="btCalcularDistancia_Clicked" />
+
+        <Label x:Name="lbDistanciaAteDestino" Text="Distancia: 0 " TextColor="Green" FontSize="Large" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"  />
+
+    </StackLayout>
+    </StackLayout>
+</ContentPage>

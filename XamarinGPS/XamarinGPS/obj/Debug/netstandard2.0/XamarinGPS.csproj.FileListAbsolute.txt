@@ -1,0 +1,14 @@
+C:\Users\vinic\source\repos\XamarinGPS\XamarinGPS\XamarinGPS\bin\Debug\netstandard2.0\XamarinGPS.deps.json
+C:\Users\vinic\source\repos\XamarinGPS\XamarinGPS\XamarinGPS\bin\Debug\netstandard2.0\XamarinGPS.dll
+C:\Users\vinic\source\repos\XamarinGPS\XamarinGPS\XamarinGPS\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\vinic\source\repos\XamarinGPS\XamarinGPS\XamarinGPS\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\vinic\source\repos\XamarinGPS\XamarinGPS\XamarinGPS\obj\Debug\netstandard2.0\XamarinGPS.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\XamarinGPS\XamarinGPS\XamarinGPS\obj\Debug\netstandard2.0\XamarinGPS.AssemblyInfo.cs
+C:\Users\vinic\source\repos\XamarinGPS\XamarinGPS\XamarinGPS\obj\Debug\netstandard2.0\XamarinGPS.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\XamarinGPS\XamarinGPS\XamarinGPS\bin\Debug\netstandard2.0\ref\XamarinGPS.dll
+C:\Users\vinic\source\repos\XamarinGPS\XamarinGPS\XamarinGPS\bin\Debug\netstandard2.0\XamarinGPS.pdb
+C:\Users\vinic\source\repos\XamarinGPS\XamarinGPS\XamarinGPS\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\vinic\source\repos\XamarinGPS\XamarinGPS\XamarinGPS\obj\Debug\netstandard2.0\XamarinGPS.dll
+C:\Users\vinic\source\repos\XamarinGPS\XamarinGPS\XamarinGPS\obj\Debug\netstandard2.0\ref\XamarinGPS.dll
+C:\Users\vinic\source\repos\XamarinGPS\XamarinGPS\XamarinGPS\obj\Debug\netstandard2.0\XamarinGPS.pdb
+C:\Users\vinic\source\repos\XamarinGPS\XamarinGPS\XamarinGPS\obj\Debug\netstandard2.0\XamarinGPS.csprojAssemblyReference.cache
